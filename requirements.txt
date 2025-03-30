@@ -1,0 +1,4 @@
+openai
+asyncio
+pip install "autogen-ext[openai]"
+pip install -U "autogen-agentchat"
